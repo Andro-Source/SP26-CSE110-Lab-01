@@ -1,11 +1,6 @@
 # Jacky Yu 👨‍💻
 
-<<<<<<< HEAD
 This site was built using [GitHub Pages](https://pages.github.com/).
-
-=======
-
-> > > > > > > 561bfa5d8bd2d8d42162cddbb023a10ba895f8df
 
 ## About Me
 
